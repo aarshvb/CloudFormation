@@ -3,7 +3,7 @@
   "Description": "",
   "Metadata": {},
   "Parameters": {},
-  "Mapping": {},
+  "Mappings": {},
   "Conditions": {},
   "Resources": {
     "AarshVPC": {
